@@ -1,0 +1,11 @@
+CreditManagement app - Flutter
+
+- Worklow
+	User can send credit(exchange unit) from one user to another user.
+	Select the user(Sender) From the Home page, then select the receiver 
+	from the dropdown and enter the amount to be sent.
+	To view Total Transactions visit transactions page
+
+- Development
+	Developed using Flutter
+
